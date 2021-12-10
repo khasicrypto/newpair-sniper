@@ -1,10 +1,14 @@
-# Welcome to Dr. Furr's Sniper Bot. Join the community: https://t.me/drfurrbots.
+## Welcome to Dr. Furr's Sniper Bot. Join the community: https://t.me/drfurrbots.
 
-# All the variables possible values are explained below, PLEASE SET THE CORRECT VALUES OR ELSE THE BOT WON'T WORK. 
+### All the variables possible values are explained below, PLEASE SET THE CORRECT VALUES OR ELSE THE BOT WON'T WORK. 
 
-BETA. NOT FULLY TESTED.
+ALPHA. NOT FULLY TESTED. It has memory and network leaks that I will fix it.
 
-# GENERAL SETTINGS:
+This bot listens for new pairs on pancakeswap, runs a honeypot test, and snipes them.
+
+With all of my bots you can find pre-compiled binaries in the dist folder. You should be able to run this bot anywhere (even mobile) without worrying about other dependencies.
+
+### GENERAL SETTINGS:
 
 `PRIVATE_KEY`: The private key is self explanatory. No one will **ever** ask for it. Don't **share** it.
 
